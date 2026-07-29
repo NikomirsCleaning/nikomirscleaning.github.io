@@ -155,3 +155,18 @@ section{
     border-radius:15px;
     margin:15px;
 }
+.review-button {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 25px;
+    background: white;
+    color: #111;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.review-button:hover {
+    transform: scale(1.05);
+}
