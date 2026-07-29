@@ -180,3 +180,9 @@ section{
         box-sizing: border-box;
     }
 }
+.logo-img{
+    width:180px;
+    height:auto;
+    display:block;
+    margin:auto;
+}
