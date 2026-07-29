@@ -201,3 +201,27 @@ section{
 .whatsapp-btn:hover{
     transform:scale(1.05);
 }
+.prijzen-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+    margin-top:30px;
+}
+
+.prijs{
+    background:#1b1b1b;
+    padding:25px;
+    border-radius:15px;
+    text-align:center;
+    border:2px solid #39d353;
+}
+
+.prijs h3{
+    color:#39d353;
+    margin-bottom:10px;
+}
+
+.prijs p{
+    font-size:22px;
+    font-weight:bold;
+}
