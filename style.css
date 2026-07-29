@@ -341,3 +341,53 @@ ul{
 }
 
 }
+/* Over ons */
+
+#over-ons{
+    padding:100px 8%;
+    text-align:center;
+}
+
+#over-ons h2{
+    font-size:40px;
+    margin-bottom:40px;
+}
+
+/* Footer */
+
+footer{
+    background:#0a0a0a;
+    padding:60px 20px;
+    text-align:center;
+    border-top:2px solid #39d353;
+    margin-top:80px;
+}
+
+.footer-logo{
+    width:140px;
+    margin-bottom:20px;
+}
+
+.footer-content h3{
+    color:#39d353;
+    font-size:30px;
+    margin-bottom:15px;
+}
+
+.footer-content p{
+    margin:10px 0;
+    color:#ddd;
+}
+
+footer .green-btn{
+    margin-top:25px;
+    display:inline-block;
+}
+
+footer a{
+    text-decoration:none;
+}
+
+footer a:hover{
+    color:black;
+}
